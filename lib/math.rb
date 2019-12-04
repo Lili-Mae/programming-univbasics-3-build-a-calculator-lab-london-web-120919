@@ -29,7 +29,7 @@ puts num
 end
 
 addition(5,4)
-subtraction
+subtraction(10,5)
 division
 multiplication
 modulo
