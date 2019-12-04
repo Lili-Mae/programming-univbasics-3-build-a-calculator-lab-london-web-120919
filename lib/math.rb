@@ -28,7 +28,7 @@ num = num1 * num1
 puts num 
 end
 
-addition()
+addition(5,4)
 subtraction
 division
 multiplication
