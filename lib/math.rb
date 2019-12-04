@@ -30,7 +30,7 @@ end
 
 addition(5,4)
 subtraction(10,5)
-division
+division(50,2)
 multiplication
 modulo
 square_root
